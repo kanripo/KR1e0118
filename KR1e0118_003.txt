@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋地理考實
-#+DATE: 2015-09-23 09:40:43
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:17:45.294236
+#+PROPERTY: ID KR1e0118
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1e0118_WYG_003-1a>¶
 欽定四庫全書¶
 　春秋地理考實卷三　　　　婺源江永撰¶
@@ -830,4 +832,3 @@
 (今屬泰/安府)濮(傳及濮杜注濮水在陳留酸棗縣/傍河東北經濟隂至髙平入濟)陵阪(傳公/游于)¶
 (陵阪今/按魯地)¶
 　春秋地理考實卷三¶
-

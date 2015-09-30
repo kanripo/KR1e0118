@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋地理考實
-#+DATE: 2015-09-23 09:40:43
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:17:45.239991
+#+PROPERTY: ID KR1e0118
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1e0118_WYG_001-1a>¶
 欽定四庫全書¶
 　春秋地理考實卷一　　　　　婺源江永撰¶
@@ -956,4 +958,3 @@
 　¶
 　¶
 　春秋地理考實卷一¶
-
